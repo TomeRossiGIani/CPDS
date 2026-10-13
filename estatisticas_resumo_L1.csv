@@ -1,0 +1,10 @@
+﻿metrica,valor
+limite_distancia,1.0
+registros_processados,420.0
+termos_analisados,4199.0
+EXATO,1320.0
+CORRIGIDO,318.0
+AMBIGUO,0.0
+MANTIDO,2561.0
+percentual_correcoes_automaticas,7.57
+termos_no_catalogo,133.0

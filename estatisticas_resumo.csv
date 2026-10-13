@@ -1,0 +1,11 @@
+﻿metrica,valor_L1,valor_L2,diferenca_L2_menos_L1
+limite_distancia,1.0,2.0,1.0
+registros_processados,420.0,420.0,0.0
+termos_analisados,4199.0,4199.0,0.0
+EXATO,1320.0,1320.0,0.0
+CORRIGIDO,318.0,389.0,71.0
+AMBIGUO,0.0,2.0,2.0
+MANTIDO,2561.0,2488.0,-73.0
+percentual_correcoes_automaticas,7.57,9.26,1.6899999999999995
+termos_no_catalogo,133.0,133.0,0.0
+registros_alterados,248.0,283.0,35.0
