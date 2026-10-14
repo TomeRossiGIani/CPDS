@@ -56,6 +56,12 @@ O limite 2 faz 71 correcoes a mais, mas tambem aumenta o risco. Ele corrige ause
 ## Arquivos gerados
 
 - `frequencia_palavras.csv`: frequencia observada no corpus.
+
+# RMS
+Leonardo Eiji Kina / RM: 562784
+Nicholas Braga de Souza / RM: 561733
+Tomé Rossi Giani / Rm: 562422
+Vitor Ramos de Farias  / RM: 561958
 - `transcricoes_processadas_L1.csv` e `transcricoes_processadas_L2.csv`: 420 registros com texto original, texto tratado e contadores por status.
 - `correcoes_realizadas_L1.csv` e `correcoes_realizadas_L2.csv`: rastreabilidade de cada correcao automatica.
 - `estatisticas_resumo_L1.csv`, `estatisticas_resumo_L2.csv` e `estatisticas_resumo.csv`: metricas dos dois limites e comparacao.
